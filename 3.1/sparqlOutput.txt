@@ -1,0 +1,45 @@
+{
+          "head": {
+                    "vars": [
+                              "actor",
+                              "actorLabel"
+                    ]
+          },
+          "results": {
+                    "bindings": [
+                              {
+                                        "actor": {
+                                                  "type": "uri",
+                                                  "value": "http://www.wikidata.org/entity/Q229268"
+                                        },
+                                        "actorLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Patricia Clarkson"
+                                        }
+                              },
+                              {
+                                        "actor": {
+                                                  "type": "uri",
+                                                  "value": "http://www.wikidata.org/entity/Q272952"
+                                        },
+                                        "actorLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Bonnie Hunt"
+                                        }
+                              },
+                              {
+                                        "actor": {
+                                                  "type": "uri",
+                                                  "value": "http://www.wikidata.org/entity/Q433198"
+                                        },
+                                        "actorLabel": {
+                                                  "xml:lang": "en",
+                                                  "type": "literal",
+                                                  "value": "Paula Malcomson"
+                                        }
+                              }
+                    ]
+          }
+}
